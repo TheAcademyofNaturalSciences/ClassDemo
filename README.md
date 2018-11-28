@@ -6,5 +6,5 @@ Class demonstration for GIS presentation. Goal is to get zonal statistics histog
 Navigate to the directory you wish to store the files and run the following command in the command prompt:
 
 ```
-curl https://github.com/TheAcademyofNaturalSciences/ClassDemo/blob/master/DemoData.zip -O ClassDemo.zip
+curl https://github.com/TheAcademyofNaturalSciences/ClassDemo/blob/master/DemoData.zip?raw=true -O ClassDemo.zip
 ```
