@@ -5,6 +5,10 @@ Class demonstration for GIS presentation. Goal is to get zonal statistics histog
 
 Naviate to the [QGIS webpage](https://www.qgis.org/en/site/) and download the most current stable release.
 
+### Get the RasterStats Plugin
+
+Plugins -> RasterStats
+
 ## Data Download
 
 Navigate to the directory you wish to store the files and run the following command in the command prompt:
