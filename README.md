@@ -9,13 +9,14 @@ Naviate to the [QGIS webpage](https://www.qgis.org/en/site/) and download the mo
 
 Plugins -> RasterStats
 
-## Data Download
+## Download Data
 
 Navigate to the directory you wish to store the files and run the following command in the command prompt:
 
 ```
 git clone https://github.com/TheAcademyofNaturalSciences/ClassDemo
 ```
+Or, download directly from the GitHub web page.
 
 ## Install Anaconda
 
