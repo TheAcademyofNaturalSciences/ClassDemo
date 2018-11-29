@@ -1,4 +1,4 @@
-# ClassDemo
+# Class Demo
 Class demonstration for GIS presentation. Goal is to get zonal statistics histogram from a raster.
 
 ## Install QGIS
