@@ -14,6 +14,7 @@ Plugins -> RasterStats
 Navigate to the directory you wish to store the files and run the following command in the command prompt:
 
 ```
+cd C:/PathToDirectory
 git clone https://github.com/TheAcademyofNaturalSciences/ClassDemo
 ```
 Or, download directly from the GitHub web page.
