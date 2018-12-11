@@ -1,0 +1,138 @@
+watershed,lu_type,lu_code,area_sqm
+Still Creek,Open Water,11,251100
+Still Creek,Deciduous Forest,41,10314000
+Still Creek,Evergreen Forest,42,783000
+Still Creek,Mixed Forest,43,965700
+Still Creek,Pasture/Hay,81,1494000
+Still Creek,Cultivated Crops,82,406800
+Still Creek,Developed Open Space,21,1012500
+Still Creek,Developed Low Intensity,22,6300
+Still Creek,Developed Medium Intensity,23,3600
+Still Creek,Barren Land,31,18000
+Still Creek,Emergent Herbaceous Wetlands,95,4500
+Wissahickon Creek,Open Water,11,8100
+Wissahickon Creek,Deciduous Forest,41,5551200
+Wissahickon Creek,Evergreen Forest,42,108000
+Wissahickon Creek,Mixed Forest,43,58500
+Wissahickon Creek,Pasture/Hay,81,11547000
+Wissahickon Creek,Cultivated Crops,82,6731100
+Wissahickon Creek,Developed Open Space,21,1727100
+Wissahickon Creek,Developed Low Intensity,22,324000
+Wissahickon Creek,Developed Medium Intensity,23,66600
+Wissahickon Creek,Developed High Intensity,24,5400
+Wissahickon Creek,Woody Wetlands,90,20700
+Wissahickon Creek,Emergent Herbaceous Wetlands,95,87300
+Stony Creek,Open Water,11,900
+Stony Creek,Deciduous Forest,41,7162200
+Stony Creek,Evergreen Forest,42,347400
+Stony Creek,Mixed Forest,43,981900
+Stony Creek,Shrub/Scrub,52,72000
+Stony Creek,Developed Open Space,21,9764100
+Stony Creek,Developed Low Intensity,22,1469700
+Stony Creek,Developed Medium Intensity,23,926100
+Stony Creek,Developed High Intensity,24,396000
+Stony Creek,Woody Wetlands,90,335700
+Stony Creek,Emergent Herbaceous Wetlands,95,8100
+Mill Creek North,Open Water,11,9000
+Mill Creek North,Grassland/Herbaceous,71,492300
+Mill Creek North,Deciduous Forest,41,17555400
+Mill Creek North,Evergreen Forest,42,18900
+Mill Creek North,Mixed Forest,43,82800
+Mill Creek North,Pasture/Hay,81,1229400
+Mill Creek North,Cultivated Crops,82,2660400
+Mill Creek North,Shrub/Scrub,52,2068200
+Mill Creek North,Developed Open Space,21,1315800
+Mill Creek North,Developed Low Intensity,22,15300
+Mill Creek North,Developed Medium Intensity,23,17100
+Mill Creek North,Woody Wetlands,90,794700
+Locust Creek,Grassland/Herbaceous,71,307800
+Locust Creek,Deciduous Forest,41,11520000
+Locust Creek,Evergreen Forest,42,9900
+Locust Creek,Mixed Forest,43,119700
+Locust Creek,Pasture/Hay,81,3300300
+Locust Creek,Cultivated Crops,82,7948800
+Locust Creek,Shrub/Scrub,52,1569600
+Locust Creek,Developed Open Space,21,2673000
+Locust Creek,Developed Low Intensity,22,950400
+Locust Creek,Developed Medium Intensity,23,133200
+Locust Creek,Developed High Intensity,24,1800
+Locust Creek,Woody Wetlands,90,379800
+Locust Creek,Emergent Herbaceous Wetlands,95,29700
+Tulpehocken Creek,Open Water,11,1577700
+Tulpehocken Creek,Deciduous Forest,41,14744700
+Tulpehocken Creek,Evergreen Forest,42,867600
+Tulpehocken Creek,Mixed Forest,43,757800
+Tulpehocken Creek,Pasture/Hay,81,890100
+Tulpehocken Creek,Cultivated Crops,82,436500
+Tulpehocken Creek,Developed Open Space,21,432900
+Tulpehocken Creek,Developed Low Intensity,22,50400
+Tulpehocken Creek,Developed Medium Intensity,23,27000
+Tulpehocken Creek,Barren Land,31,14400
+Pine Creek,Pasture/Hay,81,63900
+Pine Creek,Open Water,11,900
+Pine Creek,Developed Open Space,21,102600
+Pine Creek,Deciduous Forest,41,8676900
+Pine Creek,Evergreen Forest,42,266400
+Pine Creek,Mixed Forest,43,377100
+Saucony Creek,Open Water,11,6300
+Saucony Creek,Grassland/Herbaceous,71,4500
+Saucony Creek,Deciduous Forest,41,4670100
+Saucony Creek,Evergreen Forest,42,60300
+Saucony Creek,Mixed Forest,43,256500
+Saucony Creek,Pasture/Hay,81,810900
+Saucony Creek,Cultivated Crops,82,180000
+Saucony Creek,Shrub/Scrub,52,209700
+Saucony Creek,Developed Open Space,21,8181900
+Saucony Creek,Developed Low Intensity,22,2984400
+Saucony Creek,Developed Medium Intensity,23,3813300
+Saucony Creek,Developed High Intensity,24,1614600
+Saucony Creek,Woody Wetlands,90,97200
+Saucony Creek,Barren Land,31,12600
+West Branch Schuylkill River,Deciduous Forest,41,2637900
+West Branch Schuylkill River,Evergreen Forest,42,56700
+West Branch Schuylkill River,Open Water,11,599400
+West Branch Schuylkill River,Pasture/Hay,81,24538500
+West Branch Schuylkill River,Cultivated Crops,82,44320500
+West Branch Schuylkill River,Developed Open Space,21,7887600
+West Branch Schuylkill River,Developed Low Intensity,22,7833600
+West Branch Schuylkill River,Developed Medium Intensity,23,2598300
+West Branch Schuylkill River,Developed High Intensity,24,815400
+West Branch Schuylkill River,Woody Wetlands,90,31500
+West Branch Schuylkill River,Barren Land,31,81000
+West Branch Schuylkill River,Emergent Herbaceous Wetlands,95,111600
+Mill Creek South,Deciduous Forest,41,8381700
+Mill Creek South,Evergreen Forest,42,72900
+Mill Creek South,Mixed Forest,43,117000
+Mill Creek South,Pasture/Hay,81,3311100
+Mill Creek South,Cultivated Crops,82,1815300
+Mill Creek South,Developed Open Space,21,3863700
+Mill Creek South,Developed Low Intensity,22,2173500
+Mill Creek South,Developed Medium Intensity,23,851400
+Mill Creek South,Developed High Intensity,24,423900
+Mill Creek South,Woody Wetlands,90,56700
+Mill Creek South,Emergent Herbaceous Wetlands,95,70200
+unamed trib of Cacoosing Creek,Open Water,11,360000
+unamed trib of Cacoosing Creek,Deciduous Forest,41,24528600
+unamed trib of Cacoosing Creek,Evergreen Forest,42,981900
+unamed trib of Cacoosing Creek,Mixed Forest,43,655200
+unamed trib of Cacoosing Creek,Pasture/Hay,81,101700
+unamed trib of Cacoosing Creek,Cultivated Crops,82,108000
+unamed trib of Cacoosing Creek,Developed Open Space,21,1876500
+unamed trib of Cacoosing Creek,Developed Low Intensity,22,591300
+unamed trib of Cacoosing Creek,Developed Medium Intensity,23,115200
+unamed trib of Cacoosing Creek,Barren Land,31,1804500
+unamed trib of Cacoosing Creek,Emergent Herbaceous Wetlands,95,4500
+Trout Creek,Open Water,11,6300
+Trout Creek,Grassland/Herbaceous,71,90000
+Trout Creek,Deciduous Forest,41,11262600
+Trout Creek,Evergreen Forest,42,200700
+Trout Creek,Mixed Forest,43,351900
+Trout Creek,Pasture/Hay,81,2425500
+Trout Creek,Cultivated Crops,82,1252800
+Trout Creek,Shrub/Scrub,52,1512000
+Trout Creek,Developed Open Space,21,18318600
+Trout Creek,Developed Low Intensity,22,7292700
+Trout Creek,Developed Medium Intensity,23,3546900
+Trout Creek,Developed High Intensity,24,1260900
+Trout Creek,Woody Wetlands,90,861300
+Trout Creek,Barren Land,31,4500

@@ -4,7 +4,7 @@ import os
 
 # Store the name of the shapefiles in a variable
 ## Must update working dir
-path = "C:/Users/smh362/Documents/ClassDemo-master"
+path = "C:/Users/msc94/Documents/GitHub/ClassDemo/DemoData"
 
 os.chdir(path)
 
